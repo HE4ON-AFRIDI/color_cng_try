@@ -1,1 +1,1 @@
-# color_cng_try
+#TERMUX COLOR CNG TOOL
